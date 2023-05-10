@@ -1,0 +1,9 @@
+venv/
+training_images/
+training_images_baddetect/
+training_images_40/
+full_training_data/
+full_training_data_neg/
+full_training_data_neg_fullres/
+full_training_data_pos/
+models/
